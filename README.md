@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm Diego Chaves Castro, a **Software Developer** from Costa Rica. 🇨🇷
 
-Right now, I am currently working as a *Web Developer* in **Havas Magma** since 2021. 🏢
+Right now, I am currently working as a *Web Developer* in **Prose on Pixels** since 2021. 🏢
 
 I consider myself a person who can work in different environment and work groups. Also, I consider me as a proactive, responsible and interested person in extending my knowledge; my main work areas are: resolving logic problems, software development (mainly Front-End), mentoring and team or individual side projects.
 

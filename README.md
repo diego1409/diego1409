@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-I'm Diego Chaves Castro, a **Software Developer** from Costa Rica. 🇨🇷
+I'm Diego Chaves, a **Software Developer** from Costa Rica. 🇨🇷
 
 Right now, I am currently working as a *Web Developer* in **Prose on Pixels** since 2021. 🏢
 

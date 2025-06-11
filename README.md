@@ -17,30 +17,36 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-I'm Diego Chaves, a **Software Developer** from Costa Rica. 🇨🇷
+I'm **Diego Chaves**, a Web Developer from 🇨🇷 *Costa Rica* with over **10 years of experience** building scalable and maintainable applications.
 
-Right now, I am currently working as a *Web Developer* in **Prose on Pixels** since 2021. 🏢
+Currently, I work at **Prose on Pixels** (since 2021) where I specialize in developing responsive web solutions using **Angular**, **TypeScript**, and modern front-end technologies. I also contribute to internal tools, mentor interns, and collaborate closely with designers and stakeholders to bring ideas to life.
 
-I consider myself a person who can work in different environment and work groups. Also, I consider me as a proactive, responsible and interested person in extending my knowledge; my main work areas are: resolving logic problems, software development (mainly Front-End), mentoring and team or individual side projects.
+I’m passionate about clean code, user-focused interfaces, and continuous learning. My background includes full-stack experience, UI implementation, cross-platform app development, and mentoring junior developers.
 
-## 🛠 Skills
+---
 
-### Front-End Development
+## 🛠️ Tech Stack
 
-HTML5 | CSS3 | SASS | Bootstrap | Angular | JavaScript | TypeScript
+### 🚀 Front-End
+`Angular` | `TypeScript` | `JavaScript` | `HTML5` | `CSS3` | `Bootstrap` | `Responsive Design`
 
-### Back-End Development
+### 🧩 Back-End & Databases
+`Node.js` | `SQL` | `PostgreSQL` _(foundational experience)_
 
-Node.JS
+### 🎨 Design & Handoff Tools
+`Figma` | `Adobe Suite (XD, Photoshop, Illustrator, Premiere Pro)` _(used for design handoff and asset preparation)_
 
-### Databases
+### 🧰 Other Tools
+`Git` | `Agile/Scrum` | `Microsoft Office` | `Windows / macOS`
 
-SQL | Cloudant | Postgres
+---
 
-### Tech Skills
+## 💡 Soft Skills
 
-Windows | macOS | Basic Linux | Microsoft Office | Adobe (Photoshop, Illustrator, Audition, Premiere)
+`Proactive` | `Team-Oriented` | `Mentoring` | `Detail-Focused` | `Agile Mindset` | `Bilingual: Spanish (Native), English (Advanced)`
 
-### Soft Skills
+---
 
-Proactive | Communicative | Teamwork | Self-learner | Advanced Engligh | Agile | Mentoring
+## 📫 Let's Connect!
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dchavesc) or check out my work here on GitHub. Always open to collaboration, learning, and sharing knowledge.
